@@ -194,6 +194,14 @@ public class CommonFunction {
 		}
 	}
 
+	//An example for github update
+	public static void addition(int a, int b)
+	{
+		a=100;
+		b=200;
+		int c= a+b;
+		System.out.println("Addition value= "+c);
+	}
 }
 
 
